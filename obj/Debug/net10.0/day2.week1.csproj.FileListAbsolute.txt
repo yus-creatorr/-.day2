@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\day2.week1\bin\Debug\net10.0\day2.week1.exe
+C:\Users\user\Desktop\day2.week1\bin\Debug\net10.0\day2.week1.deps.json
+C:\Users\user\Desktop\day2.week1\bin\Debug\net10.0\day2.week1.runtimeconfig.json
+C:\Users\user\Desktop\day2.week1\bin\Debug\net10.0\day2.week1.dll
+C:\Users\user\Desktop\day2.week1\bin\Debug\net10.0\day2.week1.pdb
+C:\Users\user\Desktop\day2.week1\obj\Debug\net10.0\day2.week1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\day2.week1\obj\Debug\net10.0\day2.week1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\day2.week1\obj\Debug\net10.0\day2.week1.AssemblyInfo.cs
+C:\Users\user\Desktop\day2.week1\obj\Debug\net10.0\day2.week1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\day2.week1\obj\Debug\net10.0\day2.week1.dll
+C:\Users\user\Desktop\day2.week1\obj\Debug\net10.0\refint\day2.week1.dll
+C:\Users\user\Desktop\day2.week1\obj\Debug\net10.0\day2.week1.pdb
+C:\Users\user\Desktop\day2.week1\obj\Debug\net10.0\day2.week1.genruntimeconfig.cache
+C:\Users\user\Desktop\day2.week1\obj\Debug\net10.0\ref\day2.week1.dll
